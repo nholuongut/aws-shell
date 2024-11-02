@@ -327,16 +327,17 @@ Below are miscellaneous links for more information:
 .. _AWS CLI Github Repo: https://github.com/aws/aws-cli
 
 
-🚀 I'm are always open to your feedback.  Please contact as bellow information:
 Contact Me
 ==========
-Name: Nho Luong
-Skype:luongutnho_skype
-Github: https://github.com/nholuongut/
-Linkedin: https://www.linkedin.com/in/nholuong/
-Email Address: luongutnho@hotmail.com
-PayPal.me: https://www.paypal.com/paypalme/nholuongut
+
+* `Name: Nho Luong`
+* `Skype:luongutnho_skype`
+* `Github: https://github.com/nholuongut`
+* `Linkedin: https://www.linkedin.com/in/nholuong`
+* `Email Address: luongutnho@hotmail.com`
+* `PayPal.me: https://www.paypal.com/paypalme/nholuongut`
 
 License
 =======
+
 Nho Luong (c). All Rights Reserved.🌟
